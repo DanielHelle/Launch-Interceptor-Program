@@ -3,7 +3,7 @@ By Ayub Atif, Isac Arvidsson, Eva Despinoy, Daniel Helle
 
 ## Description of the program
 As a part of a hypothetical anti-ballistic system, the decide() function 
-generates a boolean signal which determines wether an interceptor should be 
+generates a boolean signal which determines whether an interceptor should be 
 launched based upon input radar tracking information. 
 
 The boolean signal is based on the boolean outputs of 15 functions.
